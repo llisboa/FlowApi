@@ -9,6 +9,7 @@ obj/
 *.sln.ide
 *.log
 *.dmp
+.vs/*
 packages/
 *.nupkg
 .DS_Store
