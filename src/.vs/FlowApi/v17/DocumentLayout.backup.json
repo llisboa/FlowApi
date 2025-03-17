@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tests\\FlowApi\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C12D94D0-D576-43F3-96B3-1D2E52E4B9B9}|Flow.Repository\\Flow.Repository.csproj|c:\\tests\\flowapi\\src\\flow.repository\\flowdbcontext\\postgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12D94D0-D576-43F3-96B3-1D2E52E4B9B9}|Flow.Repository\\Flow.Repository.csproj|solutionrelative:flow.repository\\flowdbcontext\\postgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB1B7B-4B82-4769-B9C4-784265A50096}|Flow.Shared\\Flow.Shared.csproj|c:\\tests\\flowapi\\src\\flow.shared\\cloud\\sm\\awssecretmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCB1B7B-4B82-4769-B9C4-784265A50096}|Flow.Shared\\Flow.Shared.csproj|solutionrelative:flow.shared\\cloud\\sm\\awssecretmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\extensions\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\extensions\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\flow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\flow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63470F6E-9D46-4E2F-965B-BB607781CF2D}|Flow.Services\\Flow.Services.csproj|c:\\tests\\flowapi\\src\\flow.services\\startupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63470F6E-9D46-4E2F-965B-BB607781CF2D}|Flow.Services\\Flow.Services.csproj|solutionrelative:flow.services\\startupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63470F6E-9D46-4E2F-965B-BB607781CF2D}|Flow.Services\\Flow.Services.csproj|c:\\tests\\flowapi\\src\\flow.services\\entities\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63470F6E-9D46-4E2F-965B-BB607781CF2D}|Flow.Services\\Flow.Services.csproj|solutionrelative:flow.services\\entities\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63470F6E-9D46-4E2F-965B-BB607781CF2D}|Flow.Services\\Flow.Services.csproj|c:\\tests\\flowapi\\src\\flow.services\\entities\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63470F6E-9D46-4E2F-965B-BB607781CF2D}|Flow.Services\\Flow.Services.csproj|solutionrelative:flow.services\\entities\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12D94D0-D576-43F3-96B3-1D2E52E4B9B9}|Flow.Repository\\Flow.Repository.csproj|c:\\tests\\flowapi\\src\\flow.repository\\flowdbcontext\\entities\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12D94D0-D576-43F3-96B3-1D2E52E4B9B9}|Flow.Repository\\Flow.Repository.csproj|solutionrelative:flow.repository\\flowdbcontext\\entities\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12D94D0-D576-43F3-96B3-1D2E52E4B9B9}|Flow.Repository\\Flow.Repository.csproj|c:\\tests\\flowapi\\src\\flow.repository\\flowdbcontext\\entities\\balancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12D94D0-D576-43F3-96B3-1D2E52E4B9B9}|Flow.Repository\\Flow.Repository.csproj|solutionrelative:flow.repository\\flowdbcontext\\entities\\balancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|c:\\tests\\flowapi\\src\\flow.domain\\models\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|solutionrelative:flow.domain\\models\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\validators\\transactionputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\validators\\transactionputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\validators\\transactiongetvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\validators\\transactiongetvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\validators\\balancegetinvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\validators\\balancegetinvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\extensions\\fluentvalidationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\extensions\\fluentvalidationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\extensions\\actionresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\extensions\\actionresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|c:\\tests\\flowapi\\src\\flow.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B4B031-4C6F-B14E-61C7-43788EFA2FF4}|Flow.Api\\Flow.Api.csproj|solutionrelative:flow.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FB060F-1DEA-4551-836F-10AD22B42337}|Flow.Tests\\Flow.Tests.csproj|c:\\tests\\flowapi\\src\\flow.tests\\api.controllers\\transactioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FB060F-1DEA-4551-836F-10AD22B42337}|Flow.Tests\\Flow.Tests.csproj|solutionrelative:flow.tests\\api.controllers\\transactioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FB060F-1DEA-4551-836F-10AD22B42337}|Flow.Tests\\Flow.Tests.csproj|c:\\tests\\flowapi\\src\\flow.tests\\api.controllers\\balancecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FB060F-1DEA-4551-836F-10AD22B42337}|Flow.Tests\\Flow.Tests.csproj|solutionrelative:flow.tests\\api.controllers\\balancecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|c:\\tests\\flowapi\\src\\flow.domain\\contracts\\services\\ibalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|solutionrelative:flow.domain\\contracts\\services\\ibalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|c:\\tests\\flowapi\\src\\flow.domain\\contracts\\repository\\entities\\ibalancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|solutionrelative:flow.domain\\contracts\\repository\\entities\\ibalancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|c:\\tests\\flowapi\\src\\flow.domain\\models\\output\\getbalanceout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|solutionrelative:flow.domain\\models\\output\\getbalanceout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|c:\\tests\\flowapi\\src\\flow.domain\\models\\output\\traceout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|solutionrelative:flow.domain\\models\\output\\traceout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FB060F-1DEA-4551-836F-10AD22B42337}|Flow.Tests\\Flow.Tests.csproj|c:\\tests\\flowapi\\src\\flow.tests\\flow.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90FB060F-1DEA-4551-836F-10AD22B42337}|Flow.Tests\\Flow.Tests.csproj|solutionrelative:flow.tests\\flow.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|c:\\tests\\flowapi\\src\\flow.domain\\contracts\\repository\\dbcontexts\\ipostgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|solutionrelative:flow.domain\\contracts\\repository\\dbcontexts\\ipostgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FB060F-1DEA-4551-836F-10AD22B42337}|Flow.Tests\\Flow.Tests.csproj|c:\\tests\\flowapi\\src\\flow.tests\\flow.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{90FB060F-1DEA-4551-836F-10AD22B42337}|Flow.Tests\\Flow.Tests.csproj|solutionrelative:flow.tests\\flow.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|c:\\tests\\flowapi\\src\\flow.domain\\contracts\\repository\\entities\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C761E5-A674-46C2-875B-499E2360CF4F}|Flow.Domain\\Flow.Domain.csproj|solutionrelative:flow.domain\\contracts\\repository\\entities\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12D94D0-D576-43F3-96B3-1D2E52E4B9B9}|Flow.Repository\\Flow.Repository.csproj|c:\\tests\\flowapi\\src\\flow.repository\\flow.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C12D94D0-D576-43F3-96B3-1D2E52E4B9B9}|Flow.Repository\\Flow.Repository.csproj|solutionrelative:flow.repository\\flow.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 227,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Flow.Api\\appsettings.json",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\appsettings.json",
+              "RelativeToolTip": "Flow.Api\\appsettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T11:36:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AWSSecretManager.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Shared\\Cloud\\SM\\AWSSecretManager.cs",
+              "RelativeDocumentMoniker": "Flow.Shared\\Cloud\\SM\\AWSSecretManager.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Shared\\Cloud\\SM\\AWSSecretManager.cs",
+              "RelativeToolTip": "Flow.Shared\\Cloud\\SM\\AWSSecretManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:13:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationExtensions.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Extensions\\ApplicationExtensions.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Extensions\\ApplicationExtensions.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Extensions\\ApplicationExtensions.cs",
+              "RelativeToolTip": "Flow.Api\\Extensions\\ApplicationExtensions.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAnwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:32:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionDTO.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Models\\DTO\\TransactionDTO.cs",
+              "RelativeDocumentMoniker": "Flow.Domain\\Models\\DTO\\TransactionDTO.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Models\\DTO\\TransactionDTO.cs",
+              "RelativeToolTip": "Flow.Domain\\Models\\DTO\\TransactionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:29:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionPutValidator.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Validators\\TransactionPutValidator.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Validators\\TransactionPutValidator.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Validators\\TransactionPutValidator.cs",
+              "RelativeToolTip": "Flow.Api\\Validators\\TransactionPutValidator.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:25:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionGetValidator.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Validators\\TransactionGetValidator.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Validators\\TransactionGetValidator.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Validators\\TransactionGetValidator.cs",
+              "RelativeToolTip": "Flow.Api\\Validators\\TransactionGetValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:25:11.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BalanceGetInValidator.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Validators\\BalanceGetInValidator.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Validators\\BalanceGetInValidator.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Validators\\BalanceGetInValidator.cs",
+              "RelativeToolTip": "Flow.Api\\Validators\\BalanceGetInValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:23:03.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FluentValidationExtensions.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Extensions\\FluentValidationExtensions.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Extensions\\FluentValidationExtensions.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Extensions\\FluentValidationExtensions.cs",
+              "RelativeToolTip": "Flow.Api\\Extensions\\FluentValidationExtensions.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:21:29.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBalanceService.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Contracts\\Services\\IBalanceService.cs",
+              "RelativeDocumentMoniker": "Flow.Domain\\Contracts\\Services\\IBalanceService.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Contracts\\Services\\IBalanceService.cs",
+              "RelativeToolTip": "Flow.Domain\\Contracts\\Services\\IBalanceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:05:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetBalanceOut.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Models\\Output\\GetBalanceOut.cs",
+              "RelativeDocumentMoniker": "Flow.Domain\\Models\\Output\\GetBalanceOut.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Models\\Output\\GetBalanceOut.cs",
+              "RelativeToolTip": "Flow.Domain\\Models\\Output\\GetBalanceOut.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:01:04.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TraceOut.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Models\\Output\\TraceOut.cs",
+              "RelativeDocumentMoniker": "Flow.Domain\\Models\\Output\\TraceOut.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Models\\Output\\TraceOut.cs",
+              "RelativeToolTip": "Flow.Domain\\Models\\Output\\TraceOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:00:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Flow.Tests.csproj",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Tests\\Flow.Tests.csproj",
+              "RelativeDocumentMoniker": "Flow.Tests\\Flow.Tests.csproj",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Tests\\Flow.Tests.csproj",
+              "RelativeToolTip": "Flow.Tests\\Flow.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T22:03:19.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Flow.Api\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:34:31.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPostgreDbContext.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Contracts\\Repository\\DbContexts\\IPostgreDbContext.cs",
+              "RelativeDocumentMoniker": "Flow.Domain\\Contracts\\Repository\\DbContexts\\IPostgreDbContext.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Contracts\\Repository\\DbContexts\\IPostgreDbContext.cs",
+              "RelativeToolTip": "Flow.Domain\\Contracts\\Repository\\DbContexts\\IPostgreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:02:15.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Flow.Tests",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Tests\\Flow.Tests.csproj",
+              "RelativeDocumentMoniker": "Flow.Tests\\Flow.Tests.csproj",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Tests\\Flow.Tests.csproj",
+              "RelativeToolTip": "Flow.Tests\\Flow.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T18:43:17.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionControllerTests.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Tests\\Api.Controllers\\TransactionControllerTests.cs",
+              "RelativeDocumentMoniker": "Flow.Tests\\Api.Controllers\\TransactionControllerTests.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Tests\\Api.Controllers\\TransactionControllerTests.cs",
+              "RelativeToolTip": "Flow.Tests\\Api.Controllers\\TransactionControllerTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:27:28.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-16T18:23:37.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBalanceRepository.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Contracts\\Repository\\Entities\\IBalanceRepository.cs",
+              "RelativeDocumentMoniker": "Flow.Domain\\Contracts\\Repository\\Entities\\IBalanceRepository.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Contracts\\Repository\\Entities\\IBalanceRepository.cs",
+              "RelativeToolTip": "Flow.Domain\\Contracts\\Repository\\Entities\\IBalanceRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:19:01.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Contracts\\Repository\\Entities\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Flow.Domain\\Contracts\\Repository\\Entities\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Domain\\Contracts\\Repository\\Entities\\ITransactionRepository.cs",
+              "RelativeToolTip": "Flow.Domain\\Contracts\\Repository\\Entities\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:18:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BalanceControllerTests.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Tests\\Api.Controllers\\BalanceControllerTests.cs",
+              "RelativeDocumentMoniker": "Flow.Tests\\Api.Controllers\\BalanceControllerTests.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Tests\\Api.Controllers\\BalanceControllerTests.cs",
+              "RelativeToolTip": "Flow.Tests\\Api.Controllers\\BalanceControllerTests.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:20:32.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartupService.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Services\\StartupService.cs",
+              "RelativeDocumentMoniker": "Flow.Services\\StartupService.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Services\\StartupService.cs",
+              "RelativeToolTip": "Flow.Services\\StartupService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:15:03.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Flow.Repository.csproj",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Repository\\Flow.Repository.csproj",
+              "RelativeDocumentMoniker": "Flow.Repository\\Flow.Repository.csproj",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Repository\\Flow.Repository.csproj",
+              "RelativeToolTip": "Flow.Repository\\Flow.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T16:08:14.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ActionResultExtensions.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Extensions\\ActionResultExtensions.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Extensions\\ActionResultExtensions.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Extensions\\ActionResultExtensions.cs",
+              "RelativeToolTip": "Flow.Api\\Extensions\\ActionResultExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:01:35.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BalanceController.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Controllers\\BalanceController.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Controllers\\BalanceController.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Controllers\\BalanceController.cs",
+              "RelativeToolTip": "Flow.Api\\Controllers\\BalanceController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:59:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostgreDbContext.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Repository\\FlowDbContext\\PostgreDbContext.cs",
+              "RelativeDocumentMoniker": "Flow.Repository\\FlowDbContext\\PostgreDbContext.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Repository\\FlowDbContext\\PostgreDbContext.cs",
+              "RelativeToolTip": "Flow.Repository\\FlowDbContext\\PostgreDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:57:31.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Repository\\FlowDbContext\\Entities\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Flow.Repository\\FlowDbContext\\Entities\\TransactionRepository.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Repository\\FlowDbContext\\Entities\\TransactionRepository.cs",
+              "RelativeToolTip": "Flow.Repository\\FlowDbContext\\Entities\\TransactionRepository.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAIBZwIEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:56:56.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BalanceRepository.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Repository\\FlowDbContext\\Entities\\BalanceRepository.cs",
+              "RelativeDocumentMoniker": "Flow.Repository\\FlowDbContext\\Entities\\BalanceRepository.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Repository\\FlowDbContext\\Entities\\BalanceRepository.cs",
+              "RelativeToolTip": "Flow.Repository\\FlowDbContext\\Entities\\BalanceRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:56:12.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Services\\Entities\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Flow.Services\\Entities\\TransactionService.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Services\\Entities\\TransactionService.cs",
+              "RelativeToolTip": "Flow.Services\\Entities\\TransactionService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:47:03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BalanceService.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Services\\Entities\\BalanceService.cs",
+              "RelativeDocumentMoniker": "Flow.Services\\Entities\\BalanceService.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Services\\Entities\\BalanceService.cs",
+              "RelativeToolTip": "Flow.Services\\Entities\\BalanceService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAMBcwBIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:46:56.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flow.Api.csproj",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Flow.Api.csproj",
+              "RelativeDocumentMoniker": "Flow.Api\\Flow.Api.csproj",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Flow.Api.csproj*",
+              "RelativeToolTip": "Flow.Api\\Flow.Api.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T15:35:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Flow.Api\\Program.cs",
+              "ToolTip": "C:\\Tests\\FlowApi\\src\\Flow.Api\\Program.cs",
+              "RelativeToolTip": "Flow.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:21:24.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

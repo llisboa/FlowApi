@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Flow.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51704;http://localhost:51705"
+    }
+  }
+}

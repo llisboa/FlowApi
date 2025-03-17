@@ -1,0 +1,17 @@
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+*.sln.ide
+*.log
+*.dmp
+packages/
+*.nupkg
+.DS_Store
+Thumbs.db
+*.publishsettings
+publish/
